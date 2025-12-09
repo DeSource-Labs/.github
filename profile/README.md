@@ -1,3 +1,5 @@
+<div align="center">
+
 # Engineering Beyond Limits
 
 > **Precision-built solutions tailored to your vision.**
@@ -7,8 +9,6 @@ We partner with forward-thinking companies to craft custom technology that drive
 ### [🌐 Explore](https://desource-labs.org) · [📧 Get in Touch](mailto:hello@desource-labs.org)
 
 ---
-
-<div align="center">
 
 ![DeSource Labs Hero](https://desource-labs.org/og.jpg)
 
@@ -58,21 +58,7 @@ DevOps workflows that evolve with your business. From prototype to billions in t
 
 <div align="center">
 
-```mermaid
-graph LR
-    A(🤖 AI Solutions) --> F(Your Vision)
-    B(⛓️ Blockchain) --> F
-    C(⚙️ Backend) --> F
-    D(🎨 Design) --> F
-    E(🚀 Infrastructure) --> F
-    
-    style F fill:#9333ea,stroke:#a78bfa,stroke-width:3px,color:#fff
-    style A fill:#1a1a1a,stroke:#666,stroke-width:2px,color:#fff
-    style B fill:#1a1a1a,stroke:#666,stroke-width:2px,color:#fff
-    style C fill:#1a1a1a,stroke:#666,stroke-width:2px,color:#fff
-    style D fill:#1a1a1a,stroke:#666,stroke-width:2px,color:#fff
-    style E fill:#1a1a1a,stroke:#666,stroke-width:2px,color:#fff
-```
+<img src="../img/1.png" alt="Full-Stack Development" width="600"/>
 
 **Every Layer, Every Detail**
 
@@ -175,19 +161,7 @@ graph LR
 
 ---
 
-```mermaid
-graph TD
-    A(Front-end Layer) --> B(Your Application)
-    B --> C(Blockchain Layer)
-    B --> D(Backend Services)
-    B --> E(Infrastructure)
-    
-    style B fill:#9333ea,stroke:#a78bfa,stroke-width:3px,color:#fff
-    style A fill:#1a1a1a,stroke:#666,stroke-width:2px,color:#fff
-    style C fill:#1a1a1a,stroke:#666,stroke-width:2px,color:#fff
-    style D fill:#1a1a1a,stroke:#666,stroke-width:2px,color:#fff
-    style E fill:#1a1a1a,stroke:#666,stroke-width:2px,color:#fff
-```
+<img src="../img/2.png" alt="Tech Stack Diagram" width="600"/>
 
 **Full-stack architecture built for scale**
 
