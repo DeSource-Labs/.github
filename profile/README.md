@@ -60,11 +60,11 @@ DevOps workflows that evolve with your business. From prototype to billions in t
 
 ```mermaid
 graph LR
-    A[🤖 AI Solutions] --> F[Your Vision]
-    B[⛓️ Blockchain] --> F
-    C[⚙️ Backend] --> F
-    D[🎨 Design] --> F
-    E[🚀 Infrastructure] --> F
+    A(🤖 AI Solutions) --> F(Your Vision)
+    B(⛓️ Blockchain) --> F
+    C(⚙️ Backend) --> F
+    D(🎨 Design) --> F
+    E(🚀 Infrastructure) --> F
     
     style F fill:#9333ea,stroke:#a78bfa,stroke-width:3px,color:#fff
     style A fill:#1a1a1a,stroke:#666,stroke-width:2px,color:#fff
@@ -177,10 +177,10 @@ graph LR
 
 ```mermaid
 graph TD
-    A[Front-end Layer] --> B[Your Application]
-    B --> C[Blockchain Layer]
-    B --> D[Backend Services]
-    B --> E[Infrastructure]
+    A(Front-end Layer) --> B(Your Application)
+    B --> C(Blockchain Layer)
+    B --> D(Backend Services)
+    B --> E(Infrastructure)
     
     style B fill:#9333ea,stroke:#a78bfa,stroke-width:3px,color:#fff
     style A fill:#1a1a1a,stroke:#666,stroke-width:2px,color:#fff
