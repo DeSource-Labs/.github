@@ -58,7 +58,7 @@ DevOps workflows that evolve with your business. From prototype to billions in t
 
 <div align="center">
 
-<img src="../img/1.png" alt="Full-Stack Development" width="600"/>
+<img src="../img/1.webp" alt="Full-Stack Development" width="600"/>
 
 **Every Layer, Every Detail**
 
